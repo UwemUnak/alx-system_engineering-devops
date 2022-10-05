@@ -1,1 +1,1 @@
-prints pathname for cwd
+task 0.where am i?
